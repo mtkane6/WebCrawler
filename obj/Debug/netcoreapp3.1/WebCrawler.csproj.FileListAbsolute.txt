@@ -1,0 +1,14 @@
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.csprojAssemblyReference.cache
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.AssemblyInfoInputs.cache
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.AssemblyInfo.cs
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.deps.json
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.runtimeconfig.json
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.runtimeconfig.dev.json
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.dll
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.pdb
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.csproj.CopyComplete
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.dll
+/Users/mitchell/Documents/UW_Bothell/Winter_2020/CloudComputing/Program1/WebCrawler/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.pdb
