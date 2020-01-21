@@ -5,6 +5,6 @@ I built this web scraper in C#, my first ever experience with the language.  I h
 
 For example:
 
-mitchell@Mitchells-MBP WebCrawler % dotnet run http://www.washington.edu 5’
+mitchell@Mitchells-MBP WebCrawler % dotnet run http://www.washington.edu 5
 
 The output on the screen will either be a handled exception thrown by the program, or it will print the html link it is hopping to next.  It will continue to do to until either the number of hops has been reached, or there are no more valid html links on the current web page.
